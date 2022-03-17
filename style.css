@@ -1,0 +1,16 @@
+body {
+    font-family: "Fredoka";
+    background-color: #CBCE91FF;
+    text-align: center;
+}
+.jumbotron{
+    background-color: #76528BFF;
+    color:white
+}
+.card{
+    background-color: #76528BFF;
+    opacity: 0.6;
+    color: white;
+
+
+}
